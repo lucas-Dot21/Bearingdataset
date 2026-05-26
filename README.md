@@ -7,5 +7,5 @@ Notably, a single bearing defect image may include multiple defects.
 
 ## Download link
 
-Baidu Netdisk: https://pan.baidu.com/s/1FBX8hRzq_4TyfqHZONEEmA  
-Extraction code: `rbmm`
+[Baidu Netdisk](https://pan.baidu.com/s/14Boix-I2kFsr91YcLwU2hg)  
+Extraction code: `hgm6`
